@@ -10,8 +10,8 @@ local.properties
 *.iml
 *.iws
 *.ipr
-/src/androidTest/
-/src/test/
+app/src/androidTest/
+app/src/test/
 
 # Android Studio cache
 .idea/caches/
